@@ -1,1 +1,1 @@
-{"type":"ui","language":"nodejs","start":"npm run start","build":"npm run build","postPull":"npm i","name":"aLastFiveV10","source":{"url":"https://github.com/Digambaran/_post_aLastFiveV10","sshUrl":"git@github.com:Digambaran/_post_aLastFiveV10.git"}}
+{"type":"ui","language":"nodejs","start":"npm run start","build":"npm run build","postPull":"npm i","name":"aLastFiveEleven","source":{"https":"https://github.com/Digambaran/_post_aLastFiveEleven","ssh":"git@github.com:Digambaran/_post_aLastFiveEleven.git"}}
